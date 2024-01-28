@@ -1,4 +1,4 @@
-# Olá, me chamo Davi Costa!
+# Olá, Dev!
 
 ## Seja bem-vindo ao meu perfil do Github, e aqui vai um pouco sobre a minha jornada até agora:
 Sou um jovem de 20 anos que cursa administração(nível técnico) e entrei no mundo da programação no final de 2023 através de um bootcamp na DIO (Digital Innovation One) onde foi introduzido aos fundamentos da programação pelo estudo da lógica de programação usando da primeira linguagem que conheci, o JavaScript. Atualmente faço parte do programa ONE (Oracle Next Educat) onde fiz meus dois primeiros projetos usando HTML, CSS e JavaScipt e vou conhecer o mundo back-end com Java e Spring.
