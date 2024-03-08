@@ -15,7 +15,6 @@ Sou um jovem de 20 anos que cursa administração(nível técnico) e entrei no m
 ## Você pode me encontrar em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davikosta/)
 ## Meu principais repositórios:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davikosta&repo=Projeto-de-Portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/davikosta/Projeto-de-Portifolio)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davikosta&repo=Projeto-de-codificador&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/davikosta/projeto-de-codificador)
 ## Minhas estatísticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davikosta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
