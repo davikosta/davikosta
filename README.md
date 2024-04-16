@@ -1,5 +1,5 @@
-# Olá, Dev!
-## Seja bem-vindo ao meu perfil do Github, e aqui vai um pouco sobre a minha jornada até agora:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+Dev!+Sou+o+Davi!;Bem-vindo+ao+meu+perfil+no+Github.)](https://git.io/typing-svg)
+## Aqui vai um pouco sobre a minha jornada até agora:
 Sou um jovem de 20 anos que cursa administração(nível técnico) e entrei no mundo da programação no final de 2023 através de um bootcamp na DIO (Digital Innovation One) onde foi introduzido aos fundamentos da programação pelo estudo da lógica de programação usando da primeira linguagem que conheci, o JavaScript. Atualmente faço parte do programa ONE (Oracle Next Educat) onde fiz meus dois primeiros projetos usando HTML, CSS e JavaScipt e vou conhecer o mundo back-end com Java e Spring.
 ## Linguagens, tecnologias e ferramentas:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,4 +18,9 @@ Sou um jovem de 20 anos que cursa administração(nível técnico) e entrei no m
 ## Minhas estatísticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davikosta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davikosta&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davikosta/davikosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davikosta/davikosta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davikosta/davikosta/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
