@@ -15,7 +15,7 @@ Sou um jovem de 20 anos que cursa administração(nível técnico) e entrei no m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davikosta/)
 ## Meu principais repositórios:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davikosta&repo=Projeto-de-codificador&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/davikosta/projeto-de-codificador)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davikosta&repo=Bank-Menu&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/davikosta/projeto-de-codificador](https://github.com/davikosta/Bank-Menu))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=davikosta&repo=Bank-Menu&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/davikosta/Bank-Menu)
 
 ## Minhas estatísticas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davikosta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
