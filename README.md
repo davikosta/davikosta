@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+Dev!+Sou+o+Davi!;Bem-vindo+ao+meu+perfil+no+Github.)](https://git.io/typing-svg)
 ## Aqui vai um pouco sobre a minha jornada até agora:
-Sou um jovem de 20 anos que cursa administração(nível técnico) e entrei no mundo da programação no final de 2023 através de um bootcamp na DIO (Digital Innovation One) onde foi introduzido aos fundamentos da programação pelo estudo da lógica de programação usando da primeira linguagem que conheci, o JavaScript. Atualmente faço parte do programa ONE (Oracle Next Educat) onde fiz meus dois primeiros projetos usando HTML, CSS e JavaScipt e vou conhecer o mundo back-end com Java e Spring.
+Sou um jovem de 20 anos que cursa administração(nível técnico) e entrei no mundo da programação no final de 2023. Atualmente estudo Java, com foco no ecossistema Spring.
 ## Linguagens, tecnologias e ferramentas:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
