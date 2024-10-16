@@ -27,9 +27,9 @@
 -->
 ## Estatísticas do GitHub
 
-[![davikosta](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![davikosta](https://github-readme-stats.vercel.app/api/top-langs/?username=davikosta&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=davikosta&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=davikosta&theme=tokyonight)
 
