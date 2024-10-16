@@ -2,9 +2,9 @@
 
 ### Olá! Eu sou o Davi. Seja bem-vindo(a) ao meu perfil no Github!
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div>
 
-<p align=left>Apaixonado por tecnologia, desejo me tornar um desenvolvedor.<br>Atualmente me interesso bastante pelo mundo backend.</p>
+<p>Apaixonado por tecnologia, desejo me tornar um desenvolvedor.<br>Atualmente me interesso bastante pelo mundo backend.</p>
 
 <img src=https://i.imgur.com/desDTQm.gif width="200" align=rigth height="auto" style="border-radius: 15px;">
 
