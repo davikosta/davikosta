@@ -12,14 +12,10 @@
 
 ## Estou Estudando:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 ## 🛠 Tecnologias e Ferramentas:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring,idea,vscode)](https://skillicons.dev)
 ## Meus Principais Projetos:
 <table style="width:100%; border: none;">
   <tr>
@@ -40,11 +36,11 @@
 🚧 Em construção . . . 🚧
 ## Estatísticas do GitHub
 
-[![davikosta](https://github-readme-stats.vercel.app/api/top-langs/?username=davikosta&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![davikosta's Stats](https://github-readme-stats.vercel.app/api?username=davikosta&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-[![card](https://github-readme-stats.vercel.app/api?username=davikosta&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![davikosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davikosta&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=davikosta&theme=tokyonight)
+![davikosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davikosta&theme=dark&hide_border=false)
 
  
 
