@@ -4,7 +4,7 @@
 
 <div>
 
-<p>Apaixonado por tecnologia, desejo me tornar um desenvolvedor.<br>Atualmente me interesso bastante pelo mundo backend.</p>
+<p>Tenho 22 anos. Estou cursando Análise e Desenvolvimento de Sistemas. Atualmente estou estudando o ecossistema Java, pretendo me tornar um desenvolvedor back-end.</p>
 
 <img src=https://i.imgur.com/desDTQm.gif width="200" align=rigth height="auto" style="border-radius: 15px;">
 
