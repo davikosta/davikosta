@@ -21,10 +21,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Meus Principais Projetos:
+<table style="width:100%; border: none;">
+  <tr>
+    <td style="width:150px; vertical-align: top; padding-right: 20px;">
+     <p>Badge Alura obtido com o projeto:</p>
+      <a href="Badge-Conversor.png">
+          <img src="Badge-Conversor.png" alt="Badge de Conclusão Alura" width="100"> </a>
+    </td>
+    <td style="vertical-align: top;">
+      <h4><a href="https://github.com/davikosta/CurrencyC-Java">CurrencyC: Conversor de Moedas via Terminal</a></h4>
+      Um conversor de moedas simples e eficiente desenvolvido em Java. Esta
+      aplicação permite que você converta valores entre diferentes moedas
+      utilizando taxas de câmbio atualizadas.
+      </td>
+  </tr>
+</table>
+
 🚧 Em construção . . . 🚧
-<!--
-- [Projeto X](https://github.com/seu-usuario/projeto) - Texto.
--->
 ## Estatísticas do GitHub
 
 [![davikosta](https://github-readme-stats.vercel.app/api/top-langs/?username=davikosta&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
