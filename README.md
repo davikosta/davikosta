@@ -4,7 +4,7 @@
 
 <div>
 
-<p>Tenho 22 anos. Estou cursando Análise e Desenvolvimento de Sistemas. Atualmente estou estudando o ecossistema Java, pretendo me tornar um desenvolvedor back-end.</p>
+<p>Estou cursando Análise e Desenvolvimento de Sistemas. Estudo o ecossistema Java, pois pretendo me tornar um desenvolvedor back-end.</p>
 
 <img src=https://i.imgur.com/desDTQm.gif width="200" align=rigth height="auto" style="border-radius: 15px;">
 
