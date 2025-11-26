@@ -6,9 +6,17 @@
 
 <p>Estou cursando Análise e Desenvolvimento de Sistemas. Estudo o ecossistema Java, pois pretendo me tornar um desenvolvedor back-end.</p>
 
-<img src=https://i.imgur.com/desDTQm.gif width="200" align=rigth height="auto" style="border-radius: 15px;">
+<img src=https://i.imgur.com/desDTQm.gif width="200" align=rigth height="auto" style="border-radius: 15px;"> 
 
 </div>
+
+<div>
+
+<p>Oracle Cloud Infrastructure 2025 Certified Foundations Associate</p>
+<img src=https://github.com/davikosta/davikosta/blob/6101fbd9347c952f7907c794af8cb1f78536a031/OCI25FNDCFA.jpeg width="400" align=rigth height="auto" style="border-radius: 15px;">
+  
+</div>
+
 
 ## Estou Estudando:
 
