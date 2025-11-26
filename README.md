@@ -41,16 +41,6 @@
   </tr>
 </table>
 
-🚧 Em construção . . . 🚧
-## Estatísticas do GitHub
-
-![davikosta's Stats](https://github-readme-stats.vercel.app/api?username=davikosta&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-![davikosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davikosta&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
-![davikosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davikosta&theme=dark&hide_border=false)
-
- 
 
 ### 🚧 README em construção . . . 🚧
 
