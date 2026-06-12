@@ -41,6 +41,11 @@
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davikosta/davikosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davikosta/davikosta/output/github-contribution-grid-snake.svg">
+  <img alt="Github de cobrinha" src="https://raw.githubusercontent.com/davikosta/davikosta/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 🚧 README em construção . . . 🚧
 
